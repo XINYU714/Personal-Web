@@ -1,1 +1,23 @@
-.icon{font-size:1.125em}.icon2{font-size:2em;color:#fff}.bg-blue{background-color:#2d4059}a{text-decoration:none}.large{opacity:.95;overflow:hidden;transform:scale(1,1);transition:all .9s ease-out}.large:hover{opacity:1;transform:scale(1.1,1.1)}
+.icon {
+  font-size: 1.125em;
+}
+.icon2 {
+  font-size: 2em;
+  color: white;
+}
+.mainbg {
+  background-color: #2d4059;
+}
+a {
+  text-decoration: none;
+}
+.large {
+  opacity: 0.95;
+  overflow: hidden;
+  transform: scale(1, 1);
+  transition: all 0.9s ease-out;
+}
+.large:hover {
+  opacity: 1;
+  transform: scale(1.1, 1.1);
+}
